@@ -1,0 +1,67 @@
+[
+  { "id": 1, "name": "sayed", "email": "sayed@gmail.com" },
+  { "id": 2, "name": "sayed", "email": "sayed@gmail.com" },
+  { "id": 3, "name": "sayed", "email": "sayed@gmail.com" },
+  { "id": 4, "name": "sayed", "email": "sayed@gmail.com" },
+  { "id": 5, "name": "sayed", "email": "sayed@gmail.com" },
+  {
+    "id": 6,
+    "name": "Raphael Schmidt",
+    "email": "your.email+fakedata80908@gmail.com",
+    "password": "$2y$10$nmfV6gag8ucGMgMFHsRV6eVdvXuXx0ssDGqfx.RQUU5OvU.Q0f/XW"
+  },
+  {
+    "id": 7,
+    "name": "ahmed",
+    "email": "ahmed@gmail.com",
+    "password": "$2y$10$7z7rdmCtZzFIRCJnjbAqD.DJMdqcN1ZlBpaRFttBiYq3zvdLbWbxe"
+  },
+  {
+    "id": 8,
+    "name": "ZETAY",
+    "email": "anesarabe84@yahoo.com",
+    "password": "$2y$10$UMa55P12lgo.ljNqRNSHI.wHVJXLN/TegwaWqE2evf.BzlDKkdOPe"
+  },
+  {
+    "id": 9,
+    "name": "zeyad",
+    "email": "zeyad@gmail.com",
+    "password": "$2y$10$fXya16tB.oJZ6627LIgtZOtp2NPQFy441wvhqryS4gofBMi5ayLgK"
+  },
+  {
+    "id": 10,
+    "name": "ZETAY",
+    "email": "zeyad2222@gmail.com",
+    "password": "$2y$10$2cvCapgjP9dZKmlk2IIkz.DwHILv0cIaALix9GeYSeAXgfSalHFjC"
+  },
+  {
+    "id": 11,
+    "name": "ZETAY",
+    "email": "zeyad1111@gmail.com",
+    "password": "$2y$10$u5YNMBKZEtTrra9nyuqRAea.dA4zd/ayR/rnuuVgXlu7nCDp/iahu"
+  },
+  {
+    "id": 12,
+    "name": "zeyad",
+    "email": "zeyad@gmail.com",
+    "password": "$2y$10$uR/F0hhnjzcrNNcFreFJW.D0N959JV25ULX/c5CwKpStBQ1sho2wu"
+  },
+  {
+    "id": 13,
+    "name": "zeyad1",
+    "email": "zeyad1@gmail.com",
+    "password": "$2y$10$Okx3Dky2fBFVE/1ib5dQ1OMELFSolX91vtaTwb41zdxd80ZReiCX2"
+  },
+  {
+    "id": 14,
+    "name": "zeyad1",
+    "email": "zeyad1@gmail.com",
+    "password": "$2y$10$kTxssHh6uXDnjoi/9eoPJu.IX6XB6TBT0cPAodCLnEYTtAT.sj1GW"
+  },
+  {
+    "id": 15,
+    "name": "zeyad4",
+    "email": "zeyad4@gmail.com",
+    "password": "0000"
+  }
+]
